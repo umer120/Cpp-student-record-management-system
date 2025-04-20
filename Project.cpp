@@ -63,31 +63,9 @@ int main()
 			return 0;
 		}
 	}
+	
 	cout << "----------------|-------------------------------|-------------------------------|-------------------|-------------------|\n\n\n";
-	//cout << "              |---------------------------------------------------------------------------------|\n";
-	//cout << "              |                                    MENU                                         |\n";
-	//cout << "              |---------------------------------------------------------------------------------|\n\n";
-	//cout << "1. Sort and display all the records roll number wise in ascending order." << endl;
-	//cout << "2. Sort and display all the records roll number wise in descending order." << endl;
-	//cout << "3. Sort and display all records in ascending order based on marks in Midterm." << endl;
-	//cout << "4. Sort and display all records in descending order based on marks in Midterm." << endl;
-	//cout << "5. Sort and display all records in ascending order based on marks in Final." << endl;
-	//cout << "6. Sort and display all records in ascending order based on marks in Final." << endl;
-	//cout << "7. Sort and display all records in ascending order based on Grade." << endl;
-	//cout << "8. Sort and display all records in descending order based on Grade." << endl;
-	//cout << "9. Add a new entry of a student." << endl;
-	//cout << "10. Delete a student record based on his roll number." << endl;
-	//cout << "11. Display record of all the students greater than X marks in final exam (in descending order with respect to marks obtained in final exam). The value of X will be entered by the user." << endl;
-	//cout << "12. Display record of all the students greater than X marks in final exam (in ascending order with respect to marks obtained in final exam). The value of X will be entered by the user." << endl;
-	//cout << "13. Display record of all the students less than or equal to X marks in final exam (in descending order with respect to marks obtained in final exam). The value of X will be entered by the user." << endl;
-	//cout << "14. Display record of all the students less than or equal to X marks in final exam (in ascending order with respect to marks obtained in final exam). The value of X will be entered by the user." << endl;
-	//cout << "15. Display record of all the students greater than X grade (in descending order with respect to grade). The value of X (character) will be entered by the user." << endl;
-	//cout << "16. Display record of all the students greater than X grade (in ascending order with respect to grade). The value of X (character) will be entered by the user." << endl;
-	//cout << "17. Display record of all the students less than or equal to X grade (in descending order with respect to grade). The value of X (character) will be entered by the user." << endl;
-	//cout << "18. Display record of all the students less than or equal to X grade (in ascending order with respect to grade). The value of X (character) will be entered by the user.\n\n\n";
-	//int option;
-	//cout << "Enter the option which you want from the above menu: ";
-	//cin >> option;
+	
 	int option;
 	do
 	{
